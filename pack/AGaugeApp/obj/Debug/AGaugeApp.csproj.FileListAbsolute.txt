@@ -1,0 +1,8 @@
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\bin\Debug\AGaugeApp.exe
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\bin\Debug\AGaugeApp.pdb
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\obj\Debug\AGaugeApp.csprojResolveAssemblyReference.cache
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\obj\Debug\AGaugeApp.Form1.resources
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\obj\Debug\AGaugeApp.Properties.Resources.resources
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\obj\Debug\AGaugeApp.csproj.GenerateResource.Cache
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\obj\Debug\AGaugeApp.exe
+C:\Users\mert\Desktop\tele\Telemetri_KBU\pack\AGaugeApp\obj\Debug\AGaugeApp.pdb

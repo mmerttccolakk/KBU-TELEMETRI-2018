@@ -1,0 +1,144 @@
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe.config
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.pdb
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csprojResolveAssemblyReference.cache
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Form1.resources
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Properties.Resources.resources
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.GenerateResource.Cache
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.exe
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.pdb
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.dll
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.dll
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.xml
+c:\users\mert\documents\visual studio 2017\Projects\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.xml
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe.config
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.pdb
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.dll
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.dll
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.xml
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.xml
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csprojResolveAssemblyReference.cache
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Form1.resources
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Properties.Resources.resources
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.GenerateResource.Cache
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.exe
+C:\Users\mert\Desktop\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe.config
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Form1.resources
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Properties.Resources.resources
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CopyComplete
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ZedGraph.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ZedGraph.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe.config
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\ZedGraph.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Form1.resources
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Properties.Resources.resources
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CopyComplete
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe.config
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\ZedGraph.xml
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Form1.resources
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Properties.Resources.resources
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CopyComplete
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\ElectroMobil\Visual\tele\yedek\14\Telemetri_KBU\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe.config
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\Telemetri_KBU.pdb
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ZedGraph.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\CircularProgressBar.xml
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\WinFormAnimation.xml
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ZedGraph.xml
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csprojAssemblyReference.cache
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Form1.resources
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.Properties.Resources.resources
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.GenerateResource.cache
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.csproj.CopyComplete
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.exe
+C:\Users\Mert\Desktop\KarVolt\Visual\tele\Telemetri_KBU\Telemetri_KBU\obj\Debug\Telemetri_KBU.pdb
